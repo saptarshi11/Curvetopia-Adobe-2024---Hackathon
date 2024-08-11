@@ -1,5 +1,5 @@
 
-# Curvetopia-Adobe
+# Curvetopia-Adobe-2024
 
 Welcome to **Curvetopia-Adobe**, a project dedicated to bringing order and beauty to the world of 2D curves! This repository is a journey into identifying, regularizing, and beautifying various types of curves in 2D Euclidean space, with a focus on closed curves, symmetry, and curve completion techniques.
 
@@ -66,13 +66,9 @@ The repository includes examples for various scenarios:
 ## Evaluation
 Regularization and symmetry are evaluated based on the number of regular geometric shapes and symmetry detected. For occlusion, rasterization techniques are used to ensure the correctness of curve completion.
 
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements or bug fixes.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributors
-- **Rishabh Mittal**: [GitHub Profile](https://github.com/therishabhmittal-05)
-- **Pinak Gupta**: [GitHub Profile](https://github.com/PinakGupta)
-- **Mehak Singla**: [GitHub Profile](https://github.com/mehaksingla2005)
+- **Saptarshi Mukherjee**: [GitHub Profile](https://github.com/saptarshi11)
+- **Aakash Bhowmick**: [GitHub Profile](https://github.com/Aakash-777)
+
